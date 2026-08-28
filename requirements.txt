@@ -2,5 +2,8 @@ streamlit
 pandas
 numpy
 matplotlib
-openpyxl
-scikit-learn
+requests
+certifi
+confluent-kafka
+transformers
+torch
